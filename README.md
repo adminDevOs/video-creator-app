@@ -61,6 +61,14 @@ Ces dépendances peuvent être installées automatiquement avec le fichier requi
 ## Contribuer
 Si vous souhaitez contribuer à ce projet, suivez les étapes ci-dessous :
 
+## Soutenir le Projet
+
+Si vous souhaitez soutenir le développement de cette application, vous pouvez devenir un mécène sur Patreon !
+
+<a href="https://www.patreon.com/FusionCreations/shop/createur-de-videos-avance-815899?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Patreon_logo.svg/220px-Patreon_logo.svg.png" alt="Devenez un mécène sur Patreon" width="200">
+</a>
+
 Forkez ce dépôt.
 Créez une nouvelle branche pour vos modifications : git checkout -b nom-de-votre-branche
 
